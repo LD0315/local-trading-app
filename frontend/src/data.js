@@ -2,7 +2,7 @@ const data = {
     products: [
         {
             _id: '1',
-            name: 'Sweatcorn',
+            name: 'Sweat Corn',
             category: 'Vegetables',
             image: '/images/sweetcorn.jpg',
             price: 3,
@@ -48,9 +48,9 @@ const data = {
         },
         {
             _id: '5',
-            name: 'Watermelon',
+            name: 'Peach',
             category: 'Fruites',
-            image: '/images/watermelon.jpg',
+            image: '/images/peach.jpg',
             price: 4.9,
             brand: 'Solomon Island',
             rating: 4.7,
@@ -82,9 +82,9 @@ const data = {
         },
         {
             _id: '8',
-            name: 'Pineapple',
+            name: 'Orange',
             category: 'Fruits',
-            image: '/images/pineapple.jpg',
+            image: '/images/orange.jpg',
             price: 4.2,
             brand: 'Solomon Island',
             rating: 5.0,
@@ -93,3 +93,5 @@ const data = {
         },
     ],
 };
+
+export default data;

@@ -88,6 +88,8 @@ a.brand{
 /* image */
 img{
   border-radius: 0.5rem;
+  width: 860px;
+  height: 300px;
 }
 
 img.medium{
